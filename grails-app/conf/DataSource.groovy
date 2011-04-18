@@ -19,8 +19,8 @@ environments {
     }
     test {
         dataSource {
-            dbCreate = "update"
-            url = "jdbc:hsqldb:mem:testDb"
+	    dbCreate = "create-drop" // one of 'create', 'create-drop','update'
+            url = "jdbc:postgresql://localhost:5432/ep_practice_test"
         }
     }
     production {
