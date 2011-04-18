@@ -1,0 +1,2 @@
+serviceClass: com.semanticbits.ep.client.UserService
+path: 5923B26D7B776BF080E9377FED5B94F4.gwt.rpc

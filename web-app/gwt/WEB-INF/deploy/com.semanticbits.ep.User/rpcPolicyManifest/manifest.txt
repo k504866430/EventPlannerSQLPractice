@@ -1,0 +1,3 @@
+# Module com.semanticbits.ep.User
+# RPC service class, partial path of RPC policy file
+com.semanticbits.ep.client.UserService, 5923B26D7B776BF080E9377FED5B94F4.gwt.rpc
